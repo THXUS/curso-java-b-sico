@@ -28,7 +28,7 @@ public static void main(String[] args) {
     System.out.println(valor);
     System.out.println(valor2);
 
-     //fazer uma interface que converte duas strings dadas e soma elas mostrando o resultado!!!!!!
+     //fazer uma interface que converte duas strings dadas e soma elas mostrando o resultado!!!!!! 
 }
     
 }
