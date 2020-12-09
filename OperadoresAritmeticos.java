@@ -24,14 +24,14 @@ public class OperadoresAritmeticos {
         for(int a = 0; a < arr.length; a++)
         {
             double ra = Math.random(); 
-            arr[a] = (int) (5 + ra * (1000-5));
+            arr[a] = (int) (1 + ra * (4-1));
         }
         for(int a = 0; a < arr.length; a++)
         {
             System.out.print(arr[a]+ " ");
         }
+        
+        
 
-
-       
     }
 }
